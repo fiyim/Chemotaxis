@@ -33,6 +33,7 @@
  	ellipse(mouseX, mouseY, 10,10);
  }  
 
+
 class Pikachu 
  {     
  	//lots of java!  
@@ -52,7 +53,6 @@ class Pikachu
  		rect(myX, myY, 40, 40, 80);
  		triangle(myX+2, myY+7, myX+12, myY+7, myX+6, myY-25);
  		triangle(myX+28, myY+7, myX+38, myY+7, myX+32, myY-25);
-
 
  		fill(255, 144, 144);
  		ellipse(myX+17, myY+30, 8, 8);
@@ -88,5 +88,6 @@ class Pikachu
 
  	 	
  	 }
+
  }    
  
